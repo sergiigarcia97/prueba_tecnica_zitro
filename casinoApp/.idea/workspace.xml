@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c732fed7-e4e6-4215-b6e1-c6772f114817" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iKGBTQpRgk6HLuQ6g9pHU0Tr2d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CasinoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.casino.CasinoApplication" />
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.casino.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CasinoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c732fed7-e4e6-4215-b6e1-c6772f114817" name="Default Changelist" comment="" />
+      <created>1601648734453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601648734453</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1725" y="415" key="#com.intellij.ide.util.MemberChooser" timestamp="1601822358562">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1725" y="415" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1601822358562" />
+    <state x="1076" y="584" width="408" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1601805620504">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1076" y="584" width="408" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400@0.0.2560.1400" timestamp="1601805620504" />
+    <state x="1674" y="234" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601726561607">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1674" y="234" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1601726561607" />
+    <state width="2517" height="398" key="GridCell.Tab.0.bottom" timestamp="1601893829623">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1601893829623" />
+    <state width="2517" height="398" key="GridCell.Tab.0.center" timestamp="1601893829623">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="398" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1601893829623" />
+    <state width="2517" height="398" key="GridCell.Tab.0.left" timestamp="1601893829623">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="398" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1601893829623" />
+    <state width="2517" height="398" key="GridCell.Tab.0.right" timestamp="1601893829623">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="398" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1601893829623" />
+    <state width="2517" height="319" key="GridCell.Tab.1.bottom" timestamp="1601844762336">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="319" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1601844762336" />
+    <state width="2517" height="319" key="GridCell.Tab.1.center" timestamp="1601844762336">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="319" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1601844762336" />
+    <state width="2517" height="319" key="GridCell.Tab.1.left" timestamp="1601844762336">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="319" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1601844762336" />
+    <state width="2517" height="319" key="GridCell.Tab.1.right" timestamp="1601844762336">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="319" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1601844762336" />
+    <state x="976" y="432" width="607" height="536" key="find.popup" timestamp="1601844740217">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="976" y="432" width="607" height="536" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1601844740217" />
+    <state x="1022" y="318" key="refactoring.ChangeSignatureDialog" timestamp="1601822363074">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1022" y="318" key="refactoring.ChangeSignatureDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1601822363074" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1601843545597">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1601843545597" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="casinoMock.games" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
